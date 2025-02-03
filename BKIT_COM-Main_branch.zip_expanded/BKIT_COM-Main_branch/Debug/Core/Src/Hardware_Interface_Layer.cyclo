@@ -1,0 +1,6 @@
+../Core/Src/Hardware_Interface_Layer.c:13:6:hw_init	9
+../Core/Src/Hardware_Interface_Layer.c:84:17:i2c_config	5
+../Core/Src/Hardware_Interface_Layer.c:104:17:spi_config	5
+../Core/Src/Hardware_Interface_Layer.c:125:17:uart_config	5
+../Core/Src/Hardware_Interface_Layer.c:145:17:RS485_config	5
+../Core/Src/Hardware_Interface_Layer.c:166:17:hw_send	1
